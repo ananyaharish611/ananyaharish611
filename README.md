@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning data science and its applications
 - 💞️ I’m looking to collaborate on make a repository on GitHub
-- 📫 How to reach me mail me
+- 📫 mail me
 - 😄 Pronouns: she
 - ⚡ Fun fact: GitHub HQ is in San Francisco
 
